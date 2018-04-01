@@ -1,0 +1,35 @@
+Empty
+HeapError
+3
+2
+1
+0
+-1
+-1
+-1
+-1
+-1 0 2 3 1 4 10 7
+8
+-1
+-1
+0
+1
+2
+3 7 4 10
+4
+3
+3
+4
+7
+10
+HeapError
+HeapError
+HeapError
+HeapError
+HeapError
+Empty
+0
+HeapError
+5
+1
+5
